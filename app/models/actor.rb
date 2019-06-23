@@ -7,4 +7,5 @@ class Actor < ActiveRecord::Base
     self.last_name 
   end
  end
+ 
 end
