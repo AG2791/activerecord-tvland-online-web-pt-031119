@@ -5,3 +5,5 @@ def change
       t.string :name 
       t.string :genre 
     end
+  end
+end
