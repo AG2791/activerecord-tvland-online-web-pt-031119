@@ -8,6 +8,6 @@ class Actor < ActiveRecord::Base
   end
  
  def list_roles
-   self.characters
+  "#{self.name} always says: #{self.catchphrase}"
 end
 
