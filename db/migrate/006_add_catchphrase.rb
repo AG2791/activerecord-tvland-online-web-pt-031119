@@ -1,1 +1,3 @@
 class AddCatchphrase < 
+  
+end
